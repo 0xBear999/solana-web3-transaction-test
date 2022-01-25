@@ -1,0 +1,20 @@
+.card {
+    display: block;
+    margin: auto auto 30px;
+    background: blue;
+    color: white;
+}
+
+.card input {
+    width: 100%;
+
+}
+
+.card span {
+    width: 100%;
+    color: green;
+}
+
+#input1>* {
+    height: 100px;
+}
